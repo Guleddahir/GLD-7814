@@ -1,2 +1,16 @@
 # GLD-7814
-I am a Water Resources and Irrigation Engineer skilled in GIS, spatial data analysis, HEC-RAS, HEC-HMS, SQL, Python, and R. I build data-driven models, geospatial workflows, and hydraulic tools that support watershed assessment, flood analysis, irrigation planning, and sustainable water management.
+- 🔭 I’m currently working on **Groundwater suitability zoning**
+
+- 🌱 I’m currently learning **python for water resource**
+
+- 👯 I’m looking to collaborate on **surface Irrigation suitabilty analysis**
+
+- 📫 How to reach me **guleddahiraden3@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
