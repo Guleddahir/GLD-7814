@@ -1,73 +1,85 @@
-# GLD-7814
-```markdown
-# Hi, I'm Guled Dahir
+<div align="center">
+  <img src="https://img.shields.io/badge/Water%20Resource%20Engineer-0077B6?style=for-the-badge&logo=watershed&logoColor=white" alt="Water Resource Engineer Badge">
+  <h1>🌊 Hi there! I'm Guled Dahir 👋</h1>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/header-banner.png" alt="header" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" />
-</p>
-
-## Water Resources Engineer · Data & Modeling Specialist
-
-I am a water resources engineer focused on hydrologic and hydraulic modeling, geospatial analysis, and data engineering. I build reproducible workflows, automation scripts, and interactive dashboards to support decision-making for watershed and flood-risk management.
+I'm a passionate and results-driven **Water Resource Engineer** focused on leveraging cutting-edge technology and data-driven methods to solve complex hydrological, hydraulic, and environmental challenges. My work spans modeling, data analysis, and visualization to contribute to sustainable water management and resilient infrastructure.
 
 ---
 
-## 🔧 Core Skills & Tools
+### 🛠️ Technical Skill Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mysql,tableau,powerbi,arcgis,qgis,hec-hms,hec-ras" alt="Software Logos" style="margin:10px;" />
-</p>
+My expertise lies at the intersection of environmental engineering, geospatial analysis, and advanced programming.
 
-- **Hydrologic & Hydraulic Modeling:** HEC‑HMS, HEC‑RAS
-- **Programming & Data Science:** Python, R
-- **Databases & GIS:** SQL, PostGIS, ArcGIS Pro, QGIS
-- **Visualization & BI:** Tableau, Power BI
-- **Automation & Scripting:** Python packages (pandas, geopandas, rasterio), R (tidyverse)
+#### 💻 Programming & Data
+| Category | Tools & Languages | Proficiency |
+| :--- | :--- | :--- |
+| **Programming** | **Python** (Pandas, NumPy, Matplotlib, SciPy), **R** (Tidyverse, ggplot2) | Expert |
+| **Databases** | **SQL** | Advanced |
+| **Visualization** | **Tableau**, **Power BI** | Expert |
 
----
+#### 🗺️ Geospatial & Modeling
+| Category | Tools & Platforms | Application Focus |
+| :--- | :--- | :--- |
+| **GIS Software** | **ArcGIS Pro**, **QGIS** | Spatial analysis, remote sensing, and data preparation for modeling |
+| **Hydraulic/Hydrologic Modeling** | **HEC-HMS** (Hydrologic Modeling System), **HEC-RAS** (River Analysis System) | Flood risk, reservoir operations, urban drainage, and riverine hydraulics |
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
-</p>
 
 ---
 
-## ⭐ Featured Projects
+### 💡 Core Areas of Expertise
 
-### 1) Rainfall–Runoff Modeling with HEC‑HMS
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/hec-hms-sample.png" alt="HEC-HMS Workflow" width="60%" style="border-radius: 10px;" />
-</p>
-- Automated preprocessing from raw gauge data and DEMs
-- Parameter estimation and calibration scripts (Python / R)
+I apply my skills across various critical domains, from river flow simulation to data-driven forecasting:
 
-### 2) Flood Inundation Mapping with HEC‑RAS
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/hec-ras-flood.png" alt="HEC-RAS Map" width="60%" style="border-radius: 10px;" />
-</p>
-- Geometry preparation, batch runs, and GeoTIFF/delineation outputs
-- Interactive map layers and hazard visualizations
+* **Flood Risk Assessment:** Conducting 1D/2D hydraulic modeling (**HEC-RAS**) to map floodplains, assess infrastructure impacts, and design mitigation strategies.
+    > *Focus Area:* Riverine hydraulics, bridge scour analysis, floodplain management.
+* **Watershed Analysis:** Developing rainfall-runoff models (**HEC-HMS**) for basin characterization, simulating hydrographs, and designing detention/retention facilities.
+    > *Focus Area:* Curve Number method, Green-Ampt infiltration, reservoir routing.
+* **Data Visualization & Reporting:** Creating dynamic and interactive dashboards (**Tableau/Power BI**) to communicate complex model results and environmental data trends to stakeholders.
+* **Environmental Data Science:** Using **Python** and **R** for time-series analysis of flow, precipitation, and water quality data.
 
-### 3) Watershed Monitoring Dashboards
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/dashboard.png" alt="Dashboard Example" width="60%" style="border-radius: 10px;" />
-</p>
-- ETL pipelines feeding Tableau / Power BI visualizations
-- Time-series analysis, event detection, and reporting
+
 
 ---
 
-## 📫 Contact
+### 🌟 Featured Projects
+
+Explore my repositories below to see my skills in action:
+
+* **Project 1** River_Hydraulics_2D_HEC-RAS 
+    > A comprehensive HEC-RAS 2D model used to simulate the impact of a proposed levee system on a regional river basin, demonstrating capacity for detailed inundation mapping. **(HEC-RAS, ArcGIS Pro, Python)**
+* **Project 2** Basin Analysis 
+    > Python scripts leveraging optimization algorithms for automating the calibration and validation of an HEC-HMS model using observed time-series data. **(Python, HEC-HMS, R)**
+* **Project 3** Groundwater Potential Mapping 
+    > A ArcGIS Pro / ArcMap (ESRI): Used for:
+
+Creating, projecting, and cleaning up thematic layers.
+
+Running spatial analysis tools like Weighted Overlay (for Multi-Criteria Decision Making or MCDM methods like Analytical Hierarchy Process - AHP).
+
+Deriving parameters like slope, drainage density, and Topographic Wetness Index (TWI) from Digital Elevation Models (DEMs).
+
+ArcGIS Groundwater Toolbox: An add-in designed specifically for hydrological and groundwater analysis.
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=blue-green" alt="Your GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=blue-green" alt="GitHub Streak" />
 </p>
 
 ---
 
-> _Tip:_ Replace `YOUR_USERNAME`, `your-username/your-repo`, `YOUR_LINKEDIN`, and `your.email@example.com` with your actual details.
-```
+### 📞 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborations, or innovative ideas in water resource management and data science.
+
+* 📧 **Email:** Guleddahiraden3@gmail.com
+* 🔗 **LinkedIn:** Engineer Guled Dahir
+* 🌐 **Portfolio/Personal Website:** 
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views" />
+</p>
